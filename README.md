@@ -1,5 +1,8 @@
 ## Learn Algo
+![{E38034D0-14D1-49CA-9C88-6620D2DE7692}](https://github.com/user-attachments/assets/f570aa2a-de6d-4c19-b5d9-a25e0f45ba41)
+
 Learn Algorithm by visualizing it.
+Demo link https://youtu.be/iKYWDnp2-kI
 
 ```bash 
 •	This web application is intended to visualize and learn various algorithms easily.
